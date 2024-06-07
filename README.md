@@ -1,6 +1,6 @@
 #  Projet Nyan Cat sur M5StickC PLUS2
 
-<img src="url_de_votre_gif.gif" alt="Description du GIF">
+<img src="https://github.com/Erwantest123/nyan/blob/main/nyan-cat.gif?raw=true" alt="Description du GIF">
 
 ## Description
 
